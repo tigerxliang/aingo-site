@@ -1,20 +1,5 @@
 [
  {
-  "url": "https://feeds.speakeasystudio.ai/feeds/IJjonugk7iAsLucB/feed.xml",
-  "lang": "en",
-  "title": "The President's Daily Brief"
- },
- {
-  "url": "https://rss2.flightcast.com/pqmr1tadvnmppwscewdh16pa.xml",
-  "lang": "en",
-  "title": "Okay, But... Birds"
- },
- {
-  "url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/cf0c25ad-cf01-4da5-ae1c-b0fc015f790e/53ed270b-7147-4f70-81c2-b0fc015fe4ed/podcast.rss",
-  "lang": "en",
-  "title": "Better Offline"
- },
- {
   "url": "https://feeds.buzzsprout.com/231452.rss",
   "lang": "en",
   "title": "Buzzcast"
@@ -23,11 +8,6 @@
   "url": "https://rss.buzzsprout.com/2175779.rss",
   "lang": "en",
   "title": "Everyday AI Podcast – An AI and ChatGPT Podcast"
- },
- {
-  "url": "https://feeds.fireside.fm/linuxunplugged/rss",
-  "lang": "en",
-  "title": "LINUX Unplugged"
  },
  {
   "url": "https://mp3s.nashownotes.com/pc20rss.xml",
@@ -50,11 +30,6 @@
   "title": "Tech Won't Save Us"
  },
  {
-  "url": "https://feeds.transistor.fm/think-fast-talk-smart-communication-techniques",
-  "lang": "en",
-  "title": "Think Fast Talk Smart: Communication Techniques"
- },
- {
   "url": "https://rss2.flightcast.com/mbqbwjr8ssv2vt5jgwcv3w20.xml",
   "lang": "en",
   "title": "A Bit of Optimism"
@@ -63,11 +38,6 @@
   "url": "https://rss.buzzsprout.com/2426515.rss",
   "lang": "en",
   "title": "How Much Can I Make? — Real Jobs. Real Stories. Career Insights"
- },
- {
-  "url": "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn",
-  "lang": "en",
-  "title": "The Diary Of A CEO with Steven Bartlett"
  },
  {
   "url": "https://rss2.flightcast.com/zuvawsnkkxtbynwgy0632z94.xml",
@@ -85,24 +55,9 @@
   "title": "Stories of Art"
  },
  {
-  "url": "https://feeds.redcircle.com/a1896d1f-da93-4c45-91c6-49b3e1bc7474",
-  "lang": "en",
-  "title": "Fell Into Food Podcast"
- },
- {
   "url": "https://rss.buzzsprout.com/2460059.rss",
   "lang": "en",
   "title": "Things Bakers Know: The King Arthur Baking Podcast"
- },
- {
-  "url": "https://rss.pdrl.fm/997ffb/www.spreaker.com/show/4607052/episodes/feed",
-  "lang": "en",
-  "title": "The Great Detectives of Old Time Radio| Daily Mystery Dramas"
- },
- {
-  "url": "https://podcasts.vpr.net/but-why",
-  "lang": "en",
-  "title": "But Why: A Podcast for Curious Kids"
  },
  {
   "url": "https://rss.buzzsprout.com/2635355.rss",
@@ -113,21 +68,6 @@
   "url": "https://rss.buzzsprout.com/2635354.rss",
   "lang": "es",
   "title": "Buenas noches, Cráneo: Historias para dormir"
- },
- {
-  "url": "https://media.rss.com/la-mano-peluda/feed.xml",
-  "lang": "es",
-  "title": "La Mano Peluda"
- },
- {
-  "url": "https://media.rss.com/subterraneo/feed.xml",
-  "lang": "es",
-  "title": "Subterráneo"
- },
- {
-  "url": "https://rss2.flightcast.com/wg7qgwtyqhpm63nsdzy138mw.xml",
-  "lang": "es",
-  "title": "Identidad Infinita | Psicología, Cambio y Reinvención con Karo Lama"
  },
  {
   "url": "https://www.spreaker.com/show/5751435/episodes/feed",
@@ -150,24 +90,9 @@
   "title": "Cupertino, podcast sobre Apple"
  },
  {
-  "url": "https://www.spreaker.com/show/6624577/episodes/feed",
-  "lang": "es",
-  "title": "Filmsteria"
- },
- {
   "url": "https://rss.buzzsprout.com/2561507.rss",
   "lang": "es",
   "title": "Calma, es fútbol"
- },
- {
-  "url": "https://www.omnycontent.com/d/playlist/ed4393e9-e648-49ba-a2e0-b06d00ed958d/27ce5eb7-73c4-459a-93bd-b07e017718cc/180f4e9c-7b9f-4ca1-af1e-b07e017718fa/podcast.rss",
-  "lang": "es",
-  "title": "Espacio Deportivo de la Tarde"
- },
- {
-  "url": "https://www.spreaker.com/show/4884903/episodes/feed",
-  "lang": "es",
-  "title": "Quédate a Comer de La Vanguardia"
  },
  {
   "url": "https://media.rss.com/haganle-como-puedan/feed.xml",
@@ -188,5 +113,375 @@
   "url": "https://pod.autolab.cloud/feed.xml",
   "lang": "zh",
   "title": "下班學AI，AI夜夜talk"
+ },
+ {
+  "url": "https://rss.buzzsprout.com/2555342.rss",
+  "lang": "en",
+  "title": "History for Kids / History's Not Boring: The Kids History Podcast"
+ },
+ {
+  "url": "https://rss.buzzsprout.com/2624612.rss",
+  "lang": "en",
+  "title": "Science for Kids / Science's Not Boring: The Kids Science Podcast"
+ },
+ {
+  "url": "https://rss.buzzsprout.com/2651238.rss",
+  "lang": "en",
+  "title": "Maths for Kids / Maths is Not Boring: The Kids Maths Podcast"
+ },
+ {
+  "url": "https://rss.buzzsprout.com/2631947.rss",
+  "lang": "en",
+  "title": "Philosophy for Kids / Philosophy's Not Boring: The Kids Philosophy Podcast"
+ },
+ {
+  "url": "https://rss.buzzsprout.com/852289.rss",
+  "lang": "en",
+  "title": "Bedtime Stories with R.A. Spratt"
+ },
+ {
+  "url": "https://rss.buzzsprout.com/2011718.rss",
+  "lang": "en",
+  "title": "Aussie English"
+ },
+ {
+  "url": "https://rss2.flightcast.com/lay1j7w3000gbthruexbjiyn.xml",
+  "lang": "en",
+  "title": "Wodcast"
+ },
+ {
+  "url": "https://rss.buzzsprout.com/2639428.rss",
+  "lang": "en",
+  "title": "Strictly Education"
+ },
+ {
+  "url": "https://rss.buzzsprout.com/2617061.rss",
+  "lang": "en",
+  "title": "Talking Rubbish - The Recycling Podcast"
+ },
+ {
+  "url": "https://audioboom.com/channels/4957126.rss",
+  "lang": "en",
+  "title": "Wild Tales | Nature Podcast"
+ },
+ {
+  "url": "https://rss.libsyn.com/shows/65014/destinations/258524.xml",
+  "lang": "en",
+  "title": "Origin Stories"
+ },
+ {
+  "url": "https://rss2.flightcast.com/xwn8rowh2w6x1hbyvleypcsj.xml",
+  "lang": "en",
+  "title": "From First Principles"
+ },
+ {
+  "url": "https://talkingtudors.podbean.com/feed.xml",
+  "lang": "en",
+  "title": "Talking Tudors"
+ },
+ {
+  "url": "https://feeds.transistor.fm/museum-podcast",
+  "lang": "en",
+  "title": "Call 'Em Like Museum with Eric Johnson"
+ },
+ {
+  "url": "https://rss.buzzsprout.com/2630830.rss",
+  "lang": "en",
+  "title": "Yasha"
+ },
+ {
+  "url": "https://rss.buzzsprout.com/2630336.rss",
+  "lang": "en",
+  "title": "Earth, Again"
+ },
+ {
+  "url": "https://rss.buzzsprout.com/2552628.rss",
+  "lang": "en",
+  "title": "Art Happens: The Divine Mess of Art History"
+ },
+ {
+  "url": "https://rss2.flightcast.com/pbyd6jzektv9svu0ypmzk4kg.xml",
+  "lang": "en",
+  "title": "The History of Ceramics"
+ },
+ {
+  "url": "https://rss.buzzsprout.com/2309606.rss",
+  "lang": "en",
+  "title": "Design Principles Pod"
+ },
+ {
+  "url": "https://rss2.flightcast.com/qp2w2l9l5zyuwsn3rrfdtmji.xml",
+  "lang": "en",
+  "title": "The Recipe"
+ },
+ {
+  "url": "https://rss.buzzsprout.com/2280335.rss",
+  "lang": "en",
+  "title": "Small Ways To Live Well from The Simple Things"
+ },
+ {
+  "url": "https://rss.buzzsprout.com/857398.rss",
+  "lang": "en",
+  "title": "Master My Garden Podcast"
+ },
+ {
+  "url": "https://rss.buzzsprout.com/2287608.rss",
+  "lang": "en",
+  "title": "Help! My Dog: The Podcast. Dog Behaviour & Training Strategies that Work!"
+ },
+ {
+  "url": "https://rss.buzzsprout.com/2458177.rss",
+  "lang": "en",
+  "title": "Two Guys on a Plane"
+ },
+ {
+  "url": "https://feeds.transistor.fm/primary-technology",
+  "lang": "en",
+  "title": "Primary Technology"
+ },
+ {
+  "url": "https://www.lanternpodcasts.com/topfive/podcast/ai-daily-briefing/feed.xml",
+  "lang": "en",
+  "title": "AI Daily Briefing"
+ },
+ {
+  "url": "https://rss2.flightcast.com/vh1lt5f2oeh4a5hn5jglgpzg.xml",
+  "lang": "en",
+  "title": "The Every Podcast"
+ },
+ {
+  "url": "https://audioboom.com/channels/5112392.rss",
+  "lang": "en",
+  "title": "Page 94: The Private Eye Podcast"
+ },
+ {
+  "url": "https://www.omnycontent.com/d/playlist/2fb3740d-3436-44af-8cc0-a91900716aa5/8e40029f-500b-4896-9365-ae580185858f/a0fa6243-dcf8-4a20-82ae-ae5801864ade/podcast.rss",
+  "lang": "en",
+  "title": "The Front"
+ },
+ {
+  "url": "https://www.omnycontent.com/d/playlist/fa326977-3de5-4283-9b8b-af3500c58607/0c6189e6-78f6-4f47-b25d-af4600179991/1dc0ac03-61e1-486c-b9be-af460017999b/podcast.rss",
+  "lang": "en",
+  "title": "She's On The Money"
+ },
+ {
+  "url": "https://rss2.flightcast.com/ordbkg8yojpehffas7vr7qpc.xml",
+  "lang": "en",
+  "title": "The Startup Ideas Podcast"
+ },
+ {
+  "url": "https://rss.buzzsprout.com/2642027.rss",
+  "lang": "en",
+  "title": "Disordered: Anxiety Help"
+ },
+ {
+  "url": "https://rss.buzzsprout.com/1871205.rss",
+  "lang": "en",
+  "title": "Home of Medicine with Dr Amie Burbridge and Dr Ben Lovell"
+ },
+ {
+  "url": "https://rss.buzzsprout.com/2573545.rss",
+  "lang": "en",
+  "title": "Diet Notes with Susie Burrell"
+ },
+ {
+  "url": "https://rss2.flightcast.com/imzibs9ivjda8knahyaer2f0.xml",
+  "lang": "en",
+  "title": "The Imperfects"
+ },
+ {
+  "url": "https://rss.buzzsprout.com/1796140.rss",
+  "lang": "en",
+  "title": "Intentionally Blank"
+ },
+ {
+  "url": "https://rss2.flightcast.com/y2wlgpei2paetteagupzs23n.xml",
+  "lang": "en",
+  "title": "The Last Video Store"
+ },
+ {
+  "url": "https://rss2.flightcast.com/xt45ryhibxwlcwavh28remso.xml",
+  "lang": "en",
+  "title": "The Press Start Podcast"
+ },
+ {
+  "url": "https://rss.buzzsprout.com/419566.rss",
+  "lang": "en",
+  "title": "Waterpeople"
+ },
+ {
+  "url": "https://www.omnycontent.com/d/playlist/fa326977-3de5-4283-9b8b-af3500c58607/cef5846a-91d6-43fd-90e5-b3920031c00c/7e7b3745-0957-478b-97b1-b3920031c013/podcast.rss",
+  "lang": "en",
+  "title": "The Unplayable Podcast"
+ },
+ {
+  "url": "https://rss.buzzsprout.com/2404122.rss",
+  "lang": "es",
+  "title": "Dreaming Spanish Podcast – Chats in Beginner Spanish"
+ },
+ {
+  "url": "https://rss.buzzsprout.com/2437041.rss",
+  "lang": "es",
+  "title": "Spanish for False Beginners - Español para Falsos Principiantes"
+ },
+ {
+  "url": "https://rss.buzzsprout.com/2531655.rss",
+  "lang": "es",
+  "title": "Advanced Spanish Podcast - Español Avanzado"
+ },
+ {
+  "url": "https://anchor.fm/s/1178a5698/podcast/rss",
+  "lang": "es",
+  "title": "Historia en Podcast"
+ },
+ {
+  "url": "https://www.spreaker.com/show/4815193/episodes/feed",
+  "lang": "es",
+  "title": "La Sublime Condición Humana"
+ },
+ {
+  "url": "https://anchor.fm/s/10ec8a780/podcast/rss",
+  "lang": "es",
+  "title": "Relatos Para No Dormir"
+ },
+ {
+  "url": "https://anchor.fm/s/1f666d80/podcast/rss",
+  "lang": "es",
+  "title": "Conversemos de astronomía"
+ },
+ {
+  "url": "https://media.rss.com/bacteriofagos/feed.xml",
+  "lang": "es",
+  "title": "Bacteriófagos"
+ },
+ {
+  "url": "https://feed.podbean.com/lajefita/feed.xml",
+  "lang": "es",
+  "title": "La Jefita"
+ },
+ {
+  "url": "https://feeds.castos.com/24r36",
+  "lang": "es",
+  "title": "Salud Mental✨ con Alan Disavia"
+ },
+ {
+  "url": "https://feeds.transistor.fm/hijos-de-la-resistencia",
+  "lang": "es",
+  "title": "Hijos de la Resistencia"
+ },
+ {
+  "url": "https://media.rss.com/rincones-con-cafe/feed.xml",
+  "lang": "es",
+  "title": "Rincones con Café | El Podcast"
+ },
+ {
+  "url": "https://anchor.fm/s/3ca01568/podcast/rss",
+  "lang": "es",
+  "title": "Radio Semilla"
+ },
+ {
+  "url": "https://anchor.fm/s/1ce87e90/podcast/rss",
+  "lang": "es",
+  "title": "La Videoteca de los Tíos"
+ },
+ {
+  "url": "https://anchor.fm/s/1151ee2e8/podcast/rss",
+  "lang": "es",
+  "title": "En mi humilde opinión"
+ },
+ {
+  "url": "https://feeds.castos.com/ow8jg",
+  "lang": "es",
+  "title": "Tema libre"
+ },
+ {
+  "url": "https://feeds.transistor.fm/resumen-tech-con-rodri",
+  "lang": "es",
+  "title": "Resumen Tech con Rodri"
+ },
+ {
+  "url": "https://rss.buzzsprout.com/2631173.rss",
+  "lang": "es",
+  "title": "Catalizadores"
+ },
+ {
+  "url": "https://rss.buzzsprout.com/2614291.rss",
+  "lang": "es",
+  "title": "Radiografía del Éxito"
+ },
+ {
+  "url": "https://www.spreaker.com/show/4942887/episodes/feed",
+  "lang": "es",
+  "title": "Despierta con Cooperativa"
+ },
+ {
+  "url": "https://rss2.flightcast.com/qq02kukwrs5urqyr5enokr50.xml",
+  "lang": "es",
+  "title": "Espresso Matutino El Podcast"
+ },
+ {
+  "url": "https://feeds.daopub.com/ythys.xml",
+  "lang": "zh",
+  "title": "记者下班"
+ },
+ {
+  "url": "https://proxy.wavpub.com/noninsurance.xml",
+  "lang": "zh",
+  "title": "不太保险"
+ },
+ {
+  "url": "https://anchor.fm/s/103e3d9e8/podcast/rss",
+  "lang": "zh",
+  "title": "自己這一關  Check In with Min"
+ },
+ {
+  "url": "https://www.omnycontent.com/d/playlist/7740012e-e1bd-4f85-81c4-a7f50047134a/54d4d500-6d5b-45b8-bd38-abad008f28b7/24b826c4-2b90-4d19-9bd1-abad008f92f2/podcast.rss",
+  "lang": "zh",
+  "title": "LOVE 972 周公讲鬼 | Mr Zhou's Ghost Stories"
+ },
+ {
+  "url": "https://media.rss.com/bala-extra/feed.xml",
+  "lang": "es",
+  "title": "Bala Extra"
+ },
+ {
+  "url": "https://anchor.fm/s/1074b3a2c/podcast/rss",
+  "lang": "es",
+  "title": "COMADRE"
+ },
+ {
+  "url": "https://www.spreaker.com/show/5587600/episodes/feed",
+  "lang": "es",
+  "title": "El arte del negocio musical. Music Business Podcast"
+ },
+ {
+  "url": "https://www.spreaker.com/show/6367618/episodes/feed",
+  "lang": "es",
+  "title": "Shadowhaven Tales"
+ },
+ {
+  "url": "https://rss.libsyn.com/shows/330782/destinations/2693480.xml",
+  "lang": "zh",
+  "title": "TeaTime Chinese 茶歇中文"
+ },
+ {
+  "url": "https://anchor.fm/s/105136b30/podcast/rss",
+  "lang": "zh",
+  "title": "科技、經濟、生活、理財漫談 Podcast"
+ },
+ {
+  "url": "https://anchor.fm/s/10ede551c/podcast/rss",
+  "lang": "zh",
+  "title": "《今天不騎車｜單車科技與產業新知》"
+ },
+ {
+  "url": "https://anchor.fm/s/819a7b68/podcast/rss",
+  "lang": "zh",
+  "title": "睡前枕邊故事-陪您入睡，祝您好眠"
+ },
+ {
+  "url": "https://anchor.fm/s/efd5e16c/podcast/rss",
+  "lang": "zh",
+  "title": "巴黎100種職人｜一百種生活"
  }
 ]
