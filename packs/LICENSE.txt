@@ -1,0 +1,92 @@
+src/data/dict.json is derived from ECDICT (https://github.com/skywind3000/ECDICT)
+
+MIT License
+
+Copyright (c) 2017 Linwei
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---------------------------------------------------------------------
+src/data/examples.json contains example sentences from Tatoeba
+(https://tatoeba.org), licensed under CC-BY 2.0 FR
+(https://creativecommons.org/licenses/by/2.0/fr/).
+Traditional Chinese translations were converted to Simplified Chinese.
+
+---------------------------------------------------------------------
+Recommended channels (src/data/recommended.js) are public podcast RSS
+feeds. Audio and transcripts are streamed directly from each
+publisher's own URLs and remain the property of their publishers.
+
+---------------------------------------------------------------------
+src/data/en/gloss.{ja,ko,es,pt}.json (English → Japanese / Korean / Spanish / Portuguese)
+are built by scripts/build-gloss-intl.py from:
+- Wiktionary (English, Japanese, Korean, Spanish and Portuguese editions), via kaikki.org,
+  licensed under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+- Open Multilingual Wordnet (https://omwn.org): Japanese WordNet (NICT, WordNet-style license),
+  Multilingual Central Repository for Spanish (CC BY 3.0), OpenWN-PT for Portuguese (CC BY-SA 3.0),
+  mapped through Princeton WordNet 3.0 (WordNet License)
+- EJDict-hand (https://github.com/kujirahand/EJDict), public domain
+- kengdic (https://github.com/garfieldnate/kengdic), MPL 2.0
+
+Example sentence translations into Japanese, Korean, Spanish and Portuguese are from Tatoeba
+(https://tatoeba.org), CC BY 2.0 FR.
+- Basic Korean Dictionary (한국어기초사전, National Institute of Korean Language,
+  https://krdict.korean.go.kr), CC BY-SA 2.0 KR (https://creativecommons.org/licenses/by-sa/2.0/kr/)
+- Remaining common words: translations written for this app (scripts/gloss-extra/)
+
+---------------------------------------------------------------------
+src/data/fr/ (French) is built by scripts/build-dict-fr.py from FrequencyWords fr_50k
+(OpenSubtitles, CC BY-SA 4.0), English and Chinese Wiktionary (kaikki.org, CC BY-SA 4.0)
+and ECDICT (MIT); example sentences from Tatoeba (CC BY 2.0 FR).
+
+src/data/ko/ (Korean) is built by scripts/build-dict-ko.py from the Basic Korean Dictionary
+(한국어기초사전, National Institute of Korean Language, CC BY-SA 2.0 KR: headwords, English equivalents,
+pronunciation, hanja, levels), FrequencyWords ko_full (OpenSubtitles, CC BY-SA 4.0), Chinese Wiktionary
+Korean entries via kaikki.org (CC BY-SA) and ECDICT (MIT); word frequencies are lemmatised with the Kiwi
+morphological analyzer (kiwipiepy, LGPL, build time only); example sentences from Tatoeba (CC BY 2.0 FR).
+
+src/data/ja/ (Japanese) is built by scripts/build-dict-ja.py from JMdict (Electronic Dictionary Research
+and Development Group, CC BY-SA 4.0, https://www.edrdg.org/edrdg/licence.html: English glosses, readings),
+Tatoeba Japanese sentences (CC BY 2.0 FR: word frequencies, word forms, example sentences) segmented with
+MeCab/UniDic (fugashi + unidic-lite, build time only), Chinese Wiktionary Japanese entries via kaikki.org
+(CC BY-SA) and ECDICT (MIT).
+
+---------------------------------------------------------------------
+src/data/zh/gloss.{ja,ko}.json, src/data/ja/gloss.ko.json and src/data/ko/gloss.ja.json
+(Chinese → Japanese / Korean, Japanese → Korean, Korean → Japanese) are built by
+scripts/build-gloss-cjk.py from Japanese and Korean Wiktionary (via kaikki.org, CC BY-SA 4.0),
+bridged through this app's existing Chinese glosses; common function words written for this app.
+Japanese and Korean translations of the Chinese / Japanese / Korean example sentences are from
+Tatoeba (https://tatoeba.org), CC BY 2.0 FR.
+
+---------------------------------------------------------------------
+src/data/de/ (German), src/data/it/ (Italian) and src/data/pt/ (Portuguese) are built by
+scripts/build-dict-latin.py from FrequencyWords de_50k / it_50k / pt_50k (OpenSubtitles, CC BY-SA 4.0),
+English and Chinese Wiktionary (kaikki.org, CC BY-SA 4.0) and ECDICT (MIT);
+example sentences from Tatoeba (CC BY 2.0 FR), Chinese translations partly via the English translation.
+
+---------------------------------------------------------------------
+src/data/{ja,ko}/gloss.{vi,id,th,es,pt}.json and src/data/zh/gloss.{vi,id,th,es,ru}.json are built by
+scripts/build-gloss-pivot.py from Vietnamese, Thai, Indonesian, Spanish, Portuguese and Russian Wiktionary
+(via kaikki.org, CC BY-SA 4.0), English Wiktionary translation tables, and this app's English dictionaries;
+the most common words are written for this app (scripts/gloss-extra/pivot-common.tsv).
+Example sentence translations are from Tatoeba (CC BY 2.0 FR), partly via the English translation.
+Between European languages (src/data/{es,pt,fr,de,it}/gloss.{es,pt,fr,de,ru,ar}.json) the same script also uses
+Spanish, Portuguese, French, German and Russian Wiktionary (kaikki.org, CC BY-SA 4.0);
+common words written for this app (scripts/gloss-extra/pivot-common-eu.tsv).
